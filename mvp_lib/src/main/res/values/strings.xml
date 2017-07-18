@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mvp_lib</string>
+
+    <string name="loading_more">正在加载...</string>
+</resources>
